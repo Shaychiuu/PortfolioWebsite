@@ -1,0 +1,28 @@
+.maxContainer {
+    width: 100%;
+    /* Other styles if needed */
+}
+
+.bgDarkForestGreen {
+    background-color: #013220;
+}
+
+.textMoonlightSilver {
+    color: #E0E1DD;
+}
+
+.textMysticalBlue {
+    color: #00008B;
+}
+
+.overlay {
+    position: relative;
+    /* other styles... */
+}
+
+
+.blueGradientText {
+    font-weight: bold;
+    /* Add your gradient here or other text styles */
+}
+
